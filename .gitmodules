@@ -1,0 +1,6 @@
+[submodule "submodules/sleepy-discord"]
+	path = submodules/sleepy-discord
+	url = https://github.com/yourWaifu/sleepy-discord.git
+[submodule "submodules/vcpkg"]
+	path = submodules/vcpkg
+	url = https://github.com/microsoft/vcpkg
